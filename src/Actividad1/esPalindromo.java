@@ -1,3 +1,5 @@
+// editado por [Mario Cajas]
+
 package Actividad1;
 
 public class esPalindromo {
